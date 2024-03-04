@@ -6,7 +6,7 @@ Yufeng Zheng, Xueting Li, Koki Nagano, Sifei Liu, Karsten Kreis, Otmar Hilliges,
 
 - **This code is forked from [threestudio](https://github.com/threestudio-project/threestudio), commit [2c20227](https://github.com/threestudio-project/threestudio/tree/2c202276747a892cfc1ded8e27a005715be8f5f2)**
 
-<img src="asset/teaser_1280_small.mp4" width="800">
+<img src="https://github.com/NVlabs/dream-in-4d/raw/master/asset/teaser_1280_small.mp4" width="800">
 
 ## Installation
 
