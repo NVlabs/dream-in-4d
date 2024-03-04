@@ -1,0 +1,6 @@
+system:
+  geometry:
+    deformation_scale: 2.0
+  prompt_processor:
+    prompt: "A corgi running"
+  geometry_convert_from: "../dream-in-4D-output/magic123-coarse-if-new/corgi.png-A_corgi_running@20231207-122715/ckpts/last.ckpt"

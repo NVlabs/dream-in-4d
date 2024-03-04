@@ -1,0 +1,5 @@
+data:
+  image_path: "load/image-to-4D-images/corgi.png"
+system:
+  prompt_processor:
+    prompt: "A corgi running"

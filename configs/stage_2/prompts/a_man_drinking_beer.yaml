@@ -1,0 +1,4 @@
+system:
+  prompt_processor:
+    prompt: "A man drinking beer"
+  geometry_convert_from: "/my_folder/video-to-4D-output/MVDream_static/mvdream-sd21-sd-1/a_man_drinking_beer@20231110-044703/ckpts/last.ckpt"

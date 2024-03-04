@@ -1,0 +1,6 @@
+data:
+  image_path: "load/image-to-4D-images/a_small_green_vase_displays_some_small_yellow_blooms.png"
+
+system:
+  prompt_processor:
+    prompt: "A small green vase displays some small yellow blooms"

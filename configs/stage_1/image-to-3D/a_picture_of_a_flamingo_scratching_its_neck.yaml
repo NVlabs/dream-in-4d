@@ -1,0 +1,6 @@
+data:
+  image_path: "load/image-to-4D-images/a_picture_of_a_flamingo_scratching_its_neck.png"
+
+system:
+  prompt_processor:
+    prompt: "A flamingo scratching its neck"

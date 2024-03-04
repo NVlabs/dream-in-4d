@@ -1,0 +1,6 @@
+system:
+  geometry:
+    deformation_scale: 1.5
+  prompt_processor:
+    prompt: "a cat is walking on the grass"
+  geometry_convert_from: "../dream-in-4D-output/magic123-coarse-if-new/a_cat_shaped_kite_sits_in_the_grass.png-a_cat_is_on_the_grass@20231207-122541/ckpts/last.ckpt"

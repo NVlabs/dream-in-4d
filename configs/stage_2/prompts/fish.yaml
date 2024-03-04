@@ -1,0 +1,6 @@
+system:
+  geometry:
+    deformation_scale: 1.5
+  prompt_processor:
+    prompt: "A clown fish is swimming"
+  geometry_convert_from: "../dream-in-4D-output/magic123-coarse-if-new/fish.png-A_clown_fish_is_swimming@20231207-123115/ckpts/last.ckpt"

@@ -1,0 +1,6 @@
+data:
+  image_path: "load/image-to-4D-images/rabbit_food.png"
+
+system:
+  prompt_processor:
+    prompt: "A rabbit and a basket of lettuce, carrot and apple"

@@ -1,0 +1,3 @@
+system:
+  prompt_processor:
+    prompt: "A monkey eating a candy bar"

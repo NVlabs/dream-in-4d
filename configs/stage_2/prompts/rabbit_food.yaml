@@ -1,0 +1,6 @@
+system:
+  geometry:
+    deformation_scale: 1.5
+  prompt_processor:
+    prompt: "A rabbit is eating lettuce"
+  geometry_convert_from: "../dream-in-4D-output/magic123-coarse-if-new/rabbit_food.png-A_rabbit_and_a_basket_of_lettuce,_carrot_and_apple@20231207-122905/ckpts/last.ckpt"

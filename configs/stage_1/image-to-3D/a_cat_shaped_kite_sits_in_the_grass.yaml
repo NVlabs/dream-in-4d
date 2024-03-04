@@ -1,0 +1,6 @@
+data:
+  image_path: "load/image-to-4D-images/a_cat_shaped_kite_sits_in_the_grass.png"
+
+system:
+  prompt_processor:
+    prompt: "a cat is on the grass"

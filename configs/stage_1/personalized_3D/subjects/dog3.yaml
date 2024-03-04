@@ -1,0 +1,4 @@
+system:
+  guidance_2d:
+     pretrained_lora_name_or_path: "yufengzheng/dog3"
+     lora_checkpoint: "checkpoint-300"

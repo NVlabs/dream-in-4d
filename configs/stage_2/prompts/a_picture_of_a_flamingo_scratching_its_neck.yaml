@@ -1,0 +1,6 @@
+system:
+  geometry:
+    deformation_scale: 2.0
+  prompt_processor:
+    prompt: "A flamingo scratching its neck"
+  geometry_convert_from: "../dream-in-4D-output/magic123-coarse-if-new/ckpts/last.ckpt"

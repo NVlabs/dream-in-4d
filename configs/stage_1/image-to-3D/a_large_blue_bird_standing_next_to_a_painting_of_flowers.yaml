@@ -1,0 +1,6 @@
+data:
+  image_path: "load/image-to-4D-images/a_large_blue_bird_standing_next_to_a_painting_of_flowers.png"
+
+system:
+  prompt_processor:
+    prompt: "A large blue bird standing next to a painting of flowers"

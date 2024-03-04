@@ -1,0 +1,6 @@
+system:
+  geometry:
+    deformation_scale: 1.5
+  prompt_processor:
+    prompt: "A dragon is flying"
+  geometry_convert_from: "../dream-in-4D-output/magic123-coarse-if-new/ckpts/last.ckpt"
