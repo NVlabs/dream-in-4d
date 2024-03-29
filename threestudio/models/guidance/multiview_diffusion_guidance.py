@@ -1,7 +1,9 @@
-# ------------------------------------------------------------------------------
-# Code is taken from https://github.com/bytedance/MVDream-threestudio/blob/main/threestudio/models/guidance/multiview_diffusion_guidance.py
-# To view a copy of this license, visit
-# https://github.com/bytedance/MVDream-threestudio/blob/main/LICENSE
+# Not a contribution
+# Changes made by NVIDIA CORPORATION & AFFILIATES enabling Dream-in-4D or otherwise documented as
+# NVIDIA-proprietary are not a contribution and subject to the following terms and conditions:
+# https://github.com/NVlabs/dream-in-4D/blob/main/LICENSE_nvidia
+#
+# Modified by Yufeng Zheng
 # ------------------------------------------------------------------------------
 import sys
 

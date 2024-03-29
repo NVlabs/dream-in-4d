@@ -1,7 +1,10 @@
-# ----------------------------------------------------------------------------------------------
-# This file is taken from https://github.com/YingqingHe/LVDM/blob/main/lvdm/utils/saving_utils.py
-# To view a copy of the license, visit
-# https://github.com/YingqingHe/LVDM/blob/main/LICENSE
+# Not a contribution
+# Changes made by NVIDIA CORPORATION & AFFILIATES enabling Dream-in-4D or otherwise documented as
+# NVIDIA-proprietary are not a contribution and subject to the following terms and conditions:
+# https://github.com/NVlabs/dream-in-4D/blob/main/LICENSE_nvidia
+#
+# Modified by Yufeng Zheng
+# ------------------------------------------------------------------------------
 
 import os
 import sys

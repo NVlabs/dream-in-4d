@@ -1,14 +1,6 @@
-# ------------------------------------------------------------------------------
-# Code is modified from https://github.com/threestudio-project/threestudio/blob/main/threestudio/models/geometry/implicit_volume.py
-# To view a copy of this license, visit
-# https://github.com/threestudio-project/threestudio/blob/main/LICENSE
-# ------------------------------------------------------------------------------
-#
-# ------------------------------------------------------------------------------
-# Copyright (c) 2023-2024 NVIDIA CORPORATION & AFFILIATES. All rights reserved.
-#
-# This work is made available under the Nvidia Source Code License.
-# To view a copy of this license, visit
+# Not a contribution
+# Changes made by NVIDIA CORPORATION & AFFILIATES enabling Dream-in-4D or otherwise documented as
+# NVIDIA-proprietary are not a contribution and subject to the following terms and conditions:
 # https://github.com/NVlabs/dream-in-4D/blob/main/LICENSE_nvidia
 #
 # Modified by Yufeng Zheng
