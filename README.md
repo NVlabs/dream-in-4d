@@ -7,7 +7,6 @@ This repository is the official PyTorch implementation of Dream-in-4D introduced
 [*Xueting Li**](https://research.nvidia.com/person/xueting-li),
 [*Koki Nagano**](https://luminohope.org/),
 [*Sifei Liu*](https://sifeiliu.net/),
-[*Karsten Kreis*](https://karstenkreis.github.io/),
 [*Otmar Hilliges*](https://ait.ethz.ch/people/hilliges),
 [*Shalini De Mello*](https://research.nvidia.com/person/shalini-de-mello)
 CVPR 2024.
@@ -108,7 +107,7 @@ If you find Dream-in-4D helpful, please consider citing:
 ```
 @InProceedings{zheng2024unified,
   title     = {A Unified Approach for Text- and Image-guided 4D Scene Generation},
-  author    = {Yufeng Zheng and Xueting Li and Koki Nagano and Sifei Liu and Karsten Kreis and Otmar Hilliges and Shalini De Mello},
+  author    = {Yufeng Zheng and Xueting Li and Koki Nagano and Sifei Liu and Otmar Hilliges and Shalini De Mello},
   booktitle = {CVPR},
   year      = {2024}
 }
