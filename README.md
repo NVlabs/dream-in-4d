@@ -1,5 +1,12 @@
 # Dream-in-4D
 
+We propose Dream-in-4D, which features a novel two-stage approach for text-to-4D synthesis, leveraging 
+(1) 3D and 2D diffusion guidance to effectively learn a high-quality static 3D asset in the first stage; 
+(2) a deformable neural radiance field that explicitly disentangles the learned static asset from its 
+deformation, preserving quality during motion learning; and (3) a multi-resolution feature grid for the 
+deformation field with a displacement total variation loss to effectively learn motion with video 
+diffusion guidance in the second stage. 
+
 This repository is the official PyTorch implementation of Dream-in-4D introduced in the paper:
 
 [**A Unified Approach for Text- and Image-guided 4D Scene Generation**](https://arxiv.org/abs/2311.16854),
