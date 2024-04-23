@@ -8,7 +8,7 @@ This repository is the official PyTorch implementation of Dream-in-4D introduced
 [*Koki Nagano**](https://luminohope.org/),
 [*Sifei Liu*](https://sifeiliu.net/),
 [*Otmar Hilliges*](https://ait.ethz.ch/people/hilliges),
-[*Shalini De Mello*](https://research.nvidia.com/person/shalini-de-mello)
+[*Shalini De Mello*](https://research.nvidia.com/person/shalini-de-mello), 
 CVPR 2024.
 
 For business inquiries, please visit our website and submit the form: [NVIDIA Research Licensing](https://www.nvidia.com/en-us/research/inquiries/).
