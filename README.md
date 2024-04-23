@@ -13,7 +13,7 @@ CVPR 2024.
 
 For business inquiries, please visit our website and submit the form: [NVIDIA Research Licensing](https://www.nvidia.com/en-us/research/inquiries/).
 
-| [Project Page](https://research.nvidia.com/labs/nxp/dream-in-4d/) | [Arxiv](https://arxiv.org/abs/2311.16854) 
+[Project Page](https://research.nvidia.com/labs/nxp/dream-in-4d/) | [Arxiv](https://arxiv.org/abs/2311.16854) 
 
 <img src="https://github.com/NVlabs/dream-in-4d/raw/master/asset/teaser_1280_small.gif" width="800">
 
