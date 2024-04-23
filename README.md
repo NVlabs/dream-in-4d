@@ -2,18 +2,18 @@
 
 This repository is the official PyTorch implementation of Dream-in-4D introduced in the paper:
 
-[**A Unified Approach for Text- and Image-guided 4D Scene Generation**](https://arxiv.org/abs/2311.16854)
+[**A Unified Approach for Text- and Image-guided 4D Scene Generation**](https://arxiv.org/abs/2311.16854),
 [*Yufeng Zheng*](https://ait.ethz.ch/people/zhengyuf),
 [*Xueting Li*](https://research.nvidia.com/person/xueting-li),
 [*Koki Nagano*](https://luminohope.org/),
 [*Sifei Liu*](https://sifeiliu.net/),
 [*Otmar Hilliges*](https://ait.ethz.ch/people/hilliges),
-[*Shalini De Mello*](https://research.nvidia.com/person/shalini-de-mello)
+[*Shalini De Mello*](https://research.nvidia.com/person/shalini-de-mello), 
 CVPR 2024.
 
 For business inquiries, please visit our website and submit the form: [NVIDIA Research Licensing](https://www.nvidia.com/en-us/research/inquiries/).
 
-| [Project Page](https://research.nvidia.com/labs/nxp/dream-in-4d/) | [Arxiv](https://arxiv.org/abs/2311.16854) 
+[Project Page](https://research.nvidia.com/labs/nxp/dream-in-4d/) | [Arxiv](https://arxiv.org/abs/2311.16854) 
 
 <img src="https://github.com/NVlabs/dream-in-4d/raw/master/asset/teaser_1280_small.gif" width="800">
 
