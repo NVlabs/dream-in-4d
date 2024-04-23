@@ -10,7 +10,7 @@
 #
 # This work is made available under the Nvidia Source Code License.
 # To view a copy of this license, visit
-# https://github.com/NVlabs/dream-in-4D/blob/main/LICENSE_nvidia
+# https://github.com/NVlabs/dream-in-4d/blob/master/LICENSE
 #
 # Written by Yufeng Zheng
 # ------------------------------------------------------------------------------

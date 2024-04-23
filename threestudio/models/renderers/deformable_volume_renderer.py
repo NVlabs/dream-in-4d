@@ -1,7 +1,7 @@
 # Not a contribution
 # Changes made by NVIDIA CORPORATION & AFFILIATES enabling Dream-in-4D or otherwise documented as
 # NVIDIA-proprietary are not a contribution and subject to the following terms and conditions:
-# https://github.com/NVlabs/dream-in-4D/blob/main/LICENSE_nvidia
+# https://github.com/NVlabs/dream-in-4d/blob/master/LICENSE
 #
 # Modified by Yufeng Zheng
 # ------------------------------------------------------------------------------

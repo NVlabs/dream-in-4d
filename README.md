@@ -4,8 +4,8 @@ This repository is the official PyTorch implementation of Dream-in-4D introduced
 
 [**A Unified Approach for Text- and Image-guided 4D Scene Generation**](https://arxiv.org/abs/2311.16854)
 [*Yufeng Zheng*](https://ait.ethz.ch/people/zhengyuf),
-[*Xueting Li**](https://research.nvidia.com/person/xueting-li),
-[*Koki Nagano**](https://luminohope.org/),
+[*Xueting Li*](https://research.nvidia.com/person/xueting-li),
+[*Koki Nagano*](https://luminohope.org/),
 [*Sifei Liu*](https://sifeiliu.net/),
 [*Otmar Hilliges*](https://ait.ethz.ch/people/hilliges),
 [*Shalini De Mello*](https://research.nvidia.com/person/shalini-de-mello)
