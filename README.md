@@ -5,7 +5,10 @@ We propose Dream-in-4D, which features a novel two-stage approach for text-to-4D
 (2) a deformable neural radiance field that explicitly disentangles the learned static asset from its 
 deformation, preserving quality during motion learning; and (3) a multi-resolution feature grid for the 
 deformation field with a displacement total variation loss to effectively learn motion with video 
-diffusion guidance in the second stage. 
+diffusion guidance in the second stage. Thanks to its motion-disentangled representation, Dream-in-4D 
+can also be easily adapted for controllable generation where appearance is defined by one or multiple images, 
+without the need to modify the motion learning stage. Thus, our method offers a unified approach for 
+text-to-4D, image-to-4D and personalized 4D generation tasks.
 
 This repository is the official PyTorch implementation of Dream-in-4D introduced in the paper:
 
