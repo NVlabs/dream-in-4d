@@ -1,12 +1,24 @@
 # Dream-in-4D
-Yufeng Zheng, Xueting Li, Koki Nagano, Sifei Liu, Karsten Kreis, Otmar Hilliges, Shalini De Mello
 
-| [Project Page](https://research.nvidia.com/labs/nxp/dream-in-4d/) | [Paper](https://arxiv.org/abs/2311.16854) 
+This repository is the official PyTorch implementation of Dream-in-4D introduced in the paper:
 
+[**A Unified Approach for Text- and Image-guided 4D Scene Generation**](https://arxiv.org/abs/2311.16854)
+[*Yufeng Zheng*](https://ait.ethz.ch/people/zhengyuf),
+[*Xueting Li**](https://research.nvidia.com/person/xueting-li),
+[*Koki Nagano**](https://luminohope.org/),
+[*Sifei Liu*](https://sifeiliu.net/),
+[*Karsten Kreis*](https://karstenkreis.github.io/),
+[*Otmar Hilliges*](https://ait.ethz.ch/people/hilliges),
+[*Shalini De Mello*](https://research.nvidia.com/person/shalini-de-mello)
+CVPR 2024.
+
+For business inquiries, please visit our website and submit the form: [NVIDIA Research Licensing](https://www.nvidia.com/en-us/research/inquiries/).
+
+| [Project Page](https://research.nvidia.com/labs/nxp/dream-in-4d/) | [Arxiv](https://arxiv.org/abs/2311.16854) 
+
+<img src="https://github.com/NVlabs/dream-in-4d/raw/master/asset/teaser_1280_small.gif" width="800">
 
 - **This code is forked from [threestudio](https://github.com/threestudio-project/threestudio), commit [2c20227](https://github.com/threestudio-project/threestudio/tree/2c202276747a892cfc1ded8e27a005715be8f5f2)**
-
-<img src="https://github.com/NVlabs/dream-in-4d/raw/master/asset/teaser_1280_small.mp4" width="800">
 
 ## Installation
 
@@ -94,11 +106,11 @@ This code is built on the [threestudio-project](https://github.com/threestudio-p
 If you find Dream-in-4D helpful, please consider citing:
 
 ```
-@article{zheng2023unified,
-  title={A Unified Approach for Text- and Image-guided 4D Scene Generation},
-  author={Yufeng Zheng and Xueting Li and Koki Nagano and Sifei Liu and Karsten Kreis and Otmar Hilliges and Shalini De Mello},
-  journal = {arXiv:2311.16854},
-  year={2023}
+@InProceedings{zheng2024unified,
+  title     = {A Unified Approach for Text- and Image-guided 4D Scene Generation},
+  author    = {Yufeng Zheng and Xueting Li and Koki Nagano and Sifei Liu and Karsten Kreis and Otmar Hilliges and Shalini De Mello},
+  booktitle = {CVPR},
+  year      = {2024}
 }
 
 ```
